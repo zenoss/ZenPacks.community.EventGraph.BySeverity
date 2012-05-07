@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.EventGraph.BySeverity"
 VERSION = "4.0"
 AUTHOR = "Nathan Elliott"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.EventGraph']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.EventGraph', 'ZenPacks.community.EventGraph.BySeverity']
 INSTALL_REQUIRES = []
